@@ -77,7 +77,7 @@ func printName(_ name: String){
     print(name)
 }
 
-var myName: String! = "Jay"
+var myName: String! = "jay"
 var yourName: String? = nil
 
 if let name: String = myName{
